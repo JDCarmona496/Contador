@@ -1,0 +1,11 @@
+
+
+button{
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+    font-weight: bolder;
+}
